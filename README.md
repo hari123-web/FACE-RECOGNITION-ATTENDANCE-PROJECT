@@ -1,1 +1,2 @@
 # FACE-RECOGNITION-ATTENDANCE-PROJECT
+To detect real time human face are used and a simple fast Principal Component Analysis has used to recognize the faces detected with a high accuracy rate. The matched face is used to mark attendance of the student/employee. Our system maintains the attendance records of students/employees automatically. In this project we are using Python Face Recognition, Open CV, NumPy, OS libraries. 
